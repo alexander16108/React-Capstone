@@ -1,7 +1,7 @@
 import React from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
-import logo from '../images/logo.png';
 import { TiArrowBackOutline } from 'react-icons/ti';
+import logo from '../images/logo.png';
 // import data from './data';
 
 const NavBar = () => {
