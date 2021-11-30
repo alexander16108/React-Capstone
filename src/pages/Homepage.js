@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { useSelector, useDispatch } from 'react-redux';
-import FetchStats from '../store/api';
 import { FaSearchLocation } from 'react-icons/fa';
+import FetchStats from '../store/api';
 import { GetStats } from '../store/reducer';
 
 const HomePage = () => {
@@ -28,7 +28,6 @@ const HomePage = () => {
     navigate(event.target.value ? `?search=${event.target.value}` : '');
     setSearchValue(event.target.value);
   };
-
 
   return (
     <div className="homePage">
