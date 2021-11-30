@@ -1,15 +1,13 @@
-# React JS Template
+# React Covid Checker Africa
+This project is a mobile web application used to check a list of COVID-19 metrics.
 
-This repo contains all the necessary files needed to quickly get started with building an application with React -- linters, create react app, dependencies, and Tailwind.
 
 ## Built with
 
 - HTML
-- CRACO
 - CSS
 - React
 - JavaScript
-- Tailwind CSS
 - VScode
 - Lots of love :heart:
 
