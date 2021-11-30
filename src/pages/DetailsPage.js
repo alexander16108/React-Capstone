@@ -19,7 +19,7 @@ const Country = () => {
 
   return (
     <div className="dataContainer">
-        <div className="continent">
+      <div className="continent">
         <h1>{name}</h1>
         <img src={findCountry.country_flag} alt="flag" className="flag2" />
       </div>
