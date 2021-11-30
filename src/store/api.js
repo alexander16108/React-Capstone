@@ -1,4 +1,5 @@
 import axios from 'axios';
+
 const baseURL = 'https://disease.sh/v3/covid-19/countries';
 
 const FetchStats = async () => {
