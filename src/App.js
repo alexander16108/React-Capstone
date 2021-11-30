@@ -1,15 +1,17 @@
-import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import NavBar from './components/navbar';
+import HomePage from './pages/Homepage';
+import Country from './pages/DetailsPage';
 
-function App() {
-  return (
-    // eslint-disable-next-line react/jsx-no-duplicate-props
-    <div className="App" className="p-6 items-center justify-center">
-      <h1 className="text-blue-400 font-extrabold"> Hello World! </h1>
-      {' '}
-      <p className="tracking-widest"> This is my first React App. </p>
-      {' '}
-    </div>
-  );
-}
+const App = () => (
+  <Router>
+    <NavBar />
+    <Routes>
+      <Route exact path="/" element={<HomePage />} />
+      <Route path="/country/:name" element={<Country />} />
+    </Routes>
+  </Router>
+);
 
 export default App;
