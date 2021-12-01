@@ -34,6 +34,8 @@ Preview(Mobile Version)
 
 [Live Link](https://deploy-preview-3--eloquent-leavitt-8c9f5c.netlify.app/)
 
+## Live Recording 
+[Live Recording](https://www.loom.com/share/c26d2271d55648cfbfe326db16cc4559)
 
 ## Getting Started
 
