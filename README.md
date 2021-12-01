@@ -1,15 +1,13 @@
-# React JS Template
+# React Covid Tracker
 
-This repo contains all the necessary files needed to quickly get started with building an application with React -- linters, create react app, dependencies, and Tailwind.
+This React capstone project is about building a mobile web application to tracker the number of infected people in africa, I will create making use of React and Redux.
 
 ## Built with
 
 - HTML
-- CRACO
 - CSS
 - React
 - JavaScript
-- Tailwind CSS
 - VScode
 - Lots of love :heart:
 
@@ -37,19 +35,19 @@ npm run lint
 
 ## Author:
 
-👤 **Nikolas Escobal**
+👤 **Alexander Odufuye**
 
-[<code><img height="26" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>](https://github.com/nikoescobal)
-[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png"></code>](https://twitter.com/nikoescobal)
-[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></code>](https://www.linkedin.com/in/nikolas-escobal/)
- <a href="mailto:niko.escobal@gmail.com?subject=Sup Niko?"><img height="26" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"></a>
+[<code><img height="26" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png"></code>](https://github.com/alexander16108)
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png"></code>](https://twitter.com/)
+[<code><img height="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></code>](https://www.linkedin.com/in/codingrex/)
+ <a href="mailto:alexandermayowa05@gmail.com?subject=Sup Alexander?"><img height="26" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"></a>
  
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/nikoescobal/members-only/issues).
+Feel free to check the [issues page](https://github.com/alexander16108/members-only/issues).
 
 ## Show your support
 
@@ -59,6 +57,7 @@ Give a ⭐️ if you like this project!
 
 - Microverse
 - The Odin Project
+-  Nelson Sakwa on Behance
 
 ## 📝 MIT License
 
