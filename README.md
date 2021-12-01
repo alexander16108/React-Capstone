@@ -11,9 +11,28 @@ This React capstone project is about building a mobile web application to tracke
 - VScode
 - Lots of love :heart:
 
+
+## Previews
+
+
+Preview(Desktop Version)
+![image](https://user-images.githubusercontent.com/60612329/144202435-ba3ce0bf-0a43-44bf-8cd6-117316fd8117.png)
+![image](https://user-images.githubusercontent.com/60612329/144202521-e65fbff5-77fa-488d-b9c8-6f2cc3f5fbb1.png)
+
+<br/>
+<br/>
+<br/>
+
+Preview(Mobile Version)
+<br/>
+![image](https://user-images.githubusercontent.com/60612329/144202712-7a45ad1a-0a25-456d-9a24-fb8270e8a18b.png)
+![image](https://user-images.githubusercontent.com/60612329/144202775-8cae61d8-d4b4-446f-b83e-5cd8f0c49a01.png)
+
+
+
 ## Live Demo
 
-[Live Link]()
+[Live Link](https://deploy-preview-3--eloquent-leavitt-8c9f5c.netlify.app/)
 
 
 ## Getting Started
